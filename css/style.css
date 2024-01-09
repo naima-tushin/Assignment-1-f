@@ -243,10 +243,12 @@ font-weight: 600;
 }
 .foot{
     margin: 100px 200px;
+   
 }
 .call{
     display: flex;
 }
+
 .second_foot{
     margin: 120px 0px 0px 250px;
 }
@@ -254,7 +256,7 @@ font-weight: 600;
     margin: 100px 300px 0px 0px;
 }
 .icons{
-    margin: 50px 30% 50px 35%;
+    margin: 50px 30% 50px 37%;
 }
 .icons img{
     padding: 0 10px;
@@ -263,6 +265,7 @@ font-weight: 600;
     display: flex;
     justify-content: space-between;
     margin-top: 50px;
+    margin-right: 70px;
 }
 .copy h3{
     color: #fff;
