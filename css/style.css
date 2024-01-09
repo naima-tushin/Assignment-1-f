@@ -60,7 +60,7 @@ letter-spacing: 7.04px;
     background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
     width: 1320px;
     height: 600px;
-    margin: 0 auto;
+    margin: 50px auto;
 }
 .para{
     color: rgba(255, 255, 255, 0.80);
