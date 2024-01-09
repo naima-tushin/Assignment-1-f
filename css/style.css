@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:wght@300;600&family=Signika:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+.header{
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 16px;
+    line-height: 0;
+}
+.heading{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 170px;
+}
+.second_heading{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 1.3;
+letter-spacing: 7.04px;
+}
+.main_class{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+.main_content{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.category{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.all_headings{
+    line-height: 0.5;
+}
+.image{
+    width: 802.9px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+.party{
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+}
+.para{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn{
+    color: black;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.btn:hover{
+    color: blue;
+    border: 2px solid blue;
+}
+.party{
+    display: flex;
+}
+.date{
+    width: 319.83px;
+    height: 464.662px;
+    margin: auto auto;
+}
+.party_heading{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+}
+.third_section{
+    margin: auto;
+}
